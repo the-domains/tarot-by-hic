@@ -29,6 +29,10 @@ navigation:
     url: 'http://www.tarotbyhic.net'
     name: Tarot by HiC
     type: external
+  - id: 'http://www.tarotbyhic.net/cardoftheday.html'
+    url: 'http://www.tarotbyhic.net/cardoftheday.html'
+    name: Card of the Day
+    type: external
 favicon: null
 title: Tarot by HiC
 purpose: []
