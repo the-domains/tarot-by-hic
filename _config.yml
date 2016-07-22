@@ -11,7 +11,8 @@ color:
   saturation: 0.19783763261511922
   rhythmicContrast: 0.9456911899615079
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/64699097-c3d6-4d03-a7df-4f24a7cf336d.png
   type: null
   appId: null
 layout_spectrum: 0.75073
@@ -19,6 +20,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: HiC Luttmers
+  email: hic@tarotbyhic.net
+  url: 'http://www.tarotbyhic.net'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/85219b1e-4d99-4c81-85f6-1b94bd3f71d9.jpg
 name: Tarot by HiC
 cta:
   domain: null
