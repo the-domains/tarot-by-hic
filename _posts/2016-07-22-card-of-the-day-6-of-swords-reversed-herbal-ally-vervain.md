@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-22T18:07:19.703Z'
+datePublished: '2016-07-22T18:07:58.450Z'
 sourcePath: _posts/2016-07-22-card-of-the-day-6-of-swords-reversed-herbal-ally-vervain.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be09141-2e42-46a6-84c4-5446101e68ef.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T18:07:19.229Z'
-title: 22 July 2016
+dateModified: '2016-07-22T18:07:57.770Z'
+title: Card of the Day • 22 July 2016
 publisher: {}
 description: 'http://www.tarotbyhic.net'
 starred: false
@@ -22,9 +22,9 @@ http://www.tarotbyhic.net
 
 Subscribe : [http://bit.ly/1OgxinP][0]
 
-### 22 July 2016
+# Card of the Day • 22 July 2016
 
-### Card of the Day • 6 of SWORDS Reversed  
+## Card of the Day • 6 of SWORDS Reversed  
 Herbal Ally • VERVAIN
 
 **Ponder this ...**  
