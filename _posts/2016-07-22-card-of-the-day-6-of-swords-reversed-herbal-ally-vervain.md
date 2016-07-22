@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-22T18:15:33.568Z'
+datePublished: '2016-07-22T18:24:18.675Z'
 sourcePath: _posts/2016-07-22-card-of-the-day-6-of-swords-reversed-herbal-ally-vervain.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be09141-2e42-46a6-84c4-5446101e68ef.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T18:15:33.233Z'
+dateModified: '2016-07-22T18:24:18.073Z'
 title: Card of the Day • 22 July 2016
 publisher: {}
 description: 'Subscribe : http://bit.ly/1OgxinP'
