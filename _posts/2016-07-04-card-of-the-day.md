@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T18:11:25.643Z'
+datePublished: '2016-07-22T18:19:16.550Z'
 sourcePath: _posts/2016-07-04-card-of-the-day.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-22T18:11:25.288Z'
+dateModified: '2016-07-22T18:19:15.833Z'
 title: Card of the Day • 4 July 2016
 publisher: {}
 description: 'Subscribe : http://bit.ly/1OgxinP'
@@ -18,15 +18,15 @@ url: card-of-the-day/index.html
 _type: Article
 
 ---
-![Image : Journey Into Egypt Tarot](https://the-grid-user-content.s3-us-west-2.amazonaws.com/284705b5-a485-45a8-a595-7564a3975da2.jpg)
+![Image : Journey Into Egypt Tarot](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81ff8c74-7ac7-4baa-adab-b62b8543a317.jpg)
 
 Subscribe : [http://bit.ly/1OgxinP][0]
 
 http://www.tarotbyhic.net
 
-# Card of the Day • 4 July 2016
+## Card of the Day • 4 July 2016
 
-## Card of the Day • PAGE of SWORDS Reversed  
+### Card of the Day • PAGE of SWORDS Reversed  
 Herbal Ally • DILL
 
 **Ponder this ...**
