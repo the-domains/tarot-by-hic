@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T18:19:16.550Z'
+datePublished: '2016-07-22T18:25:11.608Z'
 sourcePath: _posts/2016-07-04-card-of-the-day.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-22T18:19:15.833Z'
+dateModified: '2016-07-22T18:25:11.032Z'
 title: Card of the Day • 4 July 2016
 publisher: {}
 description: 'Subscribe : http://bit.ly/1OgxinP'
