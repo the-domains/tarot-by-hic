@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T18:10:09.883Z'
+datePublished: '2016-07-22T18:10:21.005Z'
 sourcePath: _posts/2016-07-04-card-of-the-day.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-22T18:10:09.503Z'
-title: Card of the Day • 22 July 2016
+dateModified: '2016-07-22T18:10:20.636Z'
+title: Card of the Day • 4 July 2016
 publisher: {}
 description: 'http://www.tarotbyhic.net'
 inLanguage: null
@@ -24,7 +24,7 @@ http://www.tarotbyhic.net
 
 Subscribe : [http://bit.ly/1OgxinP][0]
 
-# Card of the Day • 22 July 2016
+# Card of the Day • 4 July 2016
 
 ## Card of the Day • PAGE of SWORDS Reversed  
 Herbal Ally • DILL
