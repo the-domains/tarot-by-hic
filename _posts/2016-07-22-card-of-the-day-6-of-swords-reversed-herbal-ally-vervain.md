@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-07-22T18:04:35.589Z'
+datePublished: '2016-07-22T18:07:19.703Z'
+sourcePath: _posts/2016-07-22-card-of-the-day-6-of-swords-reversed-herbal-ally-vervain.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be09141-2e42-46a6-84c4-5446101e68ef.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T18:04:22.528Z'
-title: Card of the Day • 6 of SWORDS Reversed Herbal Ally • VERVAIN
+dateModified: '2016-07-22T18:07:19.229Z'
+title: 22 July 2016
 publisher: {}
-description: 'Subscribe : http://bit.ly/1OgxinP'
+description: 'http://www.tarotbyhic.net'
 starred: false
-sourcePath: _posts/2016-07-22-card-of-the-day-6-of-swords-reversed-herbal-ally-vervain.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -18,9 +18,11 @@ _type: MediaObject
 ---
 ![Image : Markéta Gebrian](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be09141-2e42-46a6-84c4-5446101e68ef.jpg)
 
+http://www.tarotbyhic.net
+
 Subscribe : [http://bit.ly/1OgxinP][0]
 
-[http://www.tarotbyhic.net][1]
+### 22 July 2016
 
 ### Card of the Day • 6 of SWORDS Reversed  
 Herbal Ally • VERVAIN
@@ -54,4 +56,3 @@ Subscribe to the Card of the Day newsletter featuring astrological information a
 \#tarot \#card \#reading \#tarotscopes \#cardoftheday \#tarotbyhic \#hic \#divination \#oracle \#reversed \#swords \#air \#wind \#six \#reinvent \#rediscover \#release \#burden
 
 [0]: http://bit.ly/1OgxinP
-[1]: http://www.tarotbyhic.net/
