@@ -1,34 +1,33 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Subscribe : http://bit.ly/1OgxinP '
-datePublished: '2016-07-04T22:41:49.181Z'
-dateModified: '2016-07-04T22:41:13.647Z'
-title: Card of the Day
-author: []
-authors: []
-publisher: null
-starred: false
+datePublished: '2016-07-22T18:10:09.883Z'
 sourcePath: _posts/2016-07-04-card-of-the-day.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-07-22T18:10:09.503Z'
+title: Card of the Day • 22 July 2016
+publisher: {}
+description: 'http://www.tarotbyhic.net'
+inLanguage: null
+inNav: false
+starred: false
 url: card-of-the-day/index.html
 _type: Article
 
 ---
-# Card of the Day
+![Image : Journey Into Egypt Tarot](https://the-grid-user-content.s3-us-west-2.amazonaws.com/284705b5-a485-45a8-a595-7564a3975da2.jpg)
 
-## 4 July 2016
+http://www.tarotbyhic.net
 
-Subscribe : [http://bit.ly/1OgxinP ][0]
+Subscribe : [http://bit.ly/1OgxinP][0]
 
-[http://www.tarotbyhic.net][1]
+# Card of the Day • 22 July 2016
 
-**Card of the Day • PAGE of SWORDS Reversed**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/284705b5-a485-45a8-a595-7564a3975da2.jpg)
-
-**Herbal Ally • DILL**
+## Card of the Day • PAGE of SWORDS Reversed  
+Herbal Ally • DILL
 
 **Ponder this ...**
 
@@ -52,10 +51,9 @@ This is a day of freedom from the worries and cares of the outside, every day wo
 
 Image : Journey Into Egypt
 
-Subscribe to the Card of the Day newsletter featuring astrological information and timing for the day, expanded information on the herbal ally, longterm astrological information and, of course, the Card of the Day. All delivered right to your email box each day ! Click here to subscribe : [http://bit.ly/1OgxinP][2]
+Subscribe to the Card of the Day newsletter featuring astrological information and timing for the day, expanded information on the herbal ally, longterm astrological information and, of course, the Card of the Day. All delivered right to your email box each day ! Click here to subscribe : [http://bit.ly/1OgxinP][0]
 
 [http://www.tarotbyhic.net][1]
 
-[0]: http://bit.ly/1OgxinP 
+[0]: http://bit.ly/1OgxinP
 [1]: http://www.tarotbyhic.net/
-[2]: http://bit.ly/1OgxinP
