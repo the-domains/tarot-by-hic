@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-22T18:07:58.450Z'
+datePublished: '2016-07-22T18:11:13.331Z'
 sourcePath: _posts/2016-07-22-card-of-the-day-6-of-swords-reversed-herbal-ally-vervain.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be09141-2e42-46a6-84c4-5446101e68ef.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T18:07:57.770Z'
+dateModified: '2016-07-22T18:11:12.846Z'
 title: Card of the Day • 22 July 2016
 publisher: {}
-description: 'http://www.tarotbyhic.net'
+description: 'Subscribe : http://bit.ly/1OgxinP'
 starred: false
 inFeed: true
 hasPage: false
@@ -18,9 +18,9 @@ _type: MediaObject
 ---
 ![Image : Markéta Gebrian](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be09141-2e42-46a6-84c4-5446101e68ef.jpg)
 
-http://www.tarotbyhic.net
-
 Subscribe : [http://bit.ly/1OgxinP][0]
+
+http://www.tarotbyhic.net
 
 # Card of the Day • 22 July 2016
 
