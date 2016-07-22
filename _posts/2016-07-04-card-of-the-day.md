@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T18:10:21.005Z'
+datePublished: '2016-07-22T18:11:25.643Z'
 sourcePath: _posts/2016-07-04-card-of-the-day.md
 inFeed: true
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-22T18:10:20.636Z'
+dateModified: '2016-07-22T18:11:25.288Z'
 title: Card of the Day • 4 July 2016
 publisher: {}
-description: 'http://www.tarotbyhic.net'
+description: 'Subscribe : http://bit.ly/1OgxinP'
 inLanguage: null
 inNav: false
 starred: false
@@ -20,9 +20,9 @@ _type: Article
 ---
 ![Image : Journey Into Egypt Tarot](https://the-grid-user-content.s3-us-west-2.amazonaws.com/284705b5-a485-45a8-a595-7564a3975da2.jpg)
 
-http://www.tarotbyhic.net
-
 Subscribe : [http://bit.ly/1OgxinP][0]
+
+http://www.tarotbyhic.net
 
 # Card of the Day • 4 July 2016
 
