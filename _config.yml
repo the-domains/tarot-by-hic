@@ -1,20 +1,4 @@
-name: Tarot by HiC
-favicon: null
-layout_spectrum: 0.75073
 typography_spectrum: 0.22397
-title: Tarot by HiC
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9d85c3'
@@ -26,4 +10,25 @@ color:
   lightness: 0.24417071416974068
   saturation: 0.19783763261511922
   rhythmicContrast: 0.9456911899615079
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.75073
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Tarot by HiC
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: 'http://www.tarotbyhic.net'
+    url: 'http://www.tarotbyhic.net'
+    name: Tarot by HiC
+    type: external
+favicon: null
+title: Tarot by HiC
 purpose: []
