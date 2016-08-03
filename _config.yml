@@ -32,14 +32,13 @@ cta:
   bucket: null
   version: null
 navigation:
-  - id: 'http://www.tarotbyhic.net'
+  - name: Tarot by HiC
     url: 'http://www.tarotbyhic.net'
-    name: Tarot by HiC
     type: external
-  - id: 'http://www.tarotbyhic.net/cardoftheday.html'
+  - name: Card of the Day
     url: 'http://www.tarotbyhic.net/cardoftheday.html'
-    name: Card of the Day
     type: external
 favicon: null
 title: Tarot by HiC
+description: "Information •\_Insight • Empowerment •\_Enlightenment"
 purpose: []
