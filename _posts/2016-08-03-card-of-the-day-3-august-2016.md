@@ -1,20 +1,22 @@
 ---
-datePublished: '2016-08-03T18:06:15.793Z'
+datePublished: '2016-08-03T18:08:48.439Z'
+sourcePath: _posts/2016-08-03-card-of-the-day-3-august-2016.md
 isBasedOnUrl: 'http://www.tarotbyhic.net'
 author: []
 via: {}
-dateModified: '2016-08-03T18:05:57.168Z'
+dateModified: '2016-08-03T18:08:47.722Z'
 title: Card of the Day • 3 August 2016
 publisher: {}
 description: 'Subscribe : http://bit.ly/1OgxinP'
 starred: false
-sourcePath: _posts/2016-08-03-card-of-the-day-3-august-2016.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/538f25f6-f248-4035-b564-cf222c0ed8fd.gif)
+
 # Card of the Day • 3 August 2016
 
 Subscribe : http://bit.ly/1OgxinP
@@ -23,7 +25,6 @@ Subscribe : http://bit.ly/1OgxinP
 
 ## Card of the Day • KING of PENTACLES  
 Herbal Ally • ALFALFA
-![Image : Rohrig Tarot](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7778c62e-e123-4011-9e2a-50f1314d66f4.gif)
 
 **Ponder this ...**  
 _• Am I in charge and in control of how I'm using my resources ?  
