@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-27T18:18:55.518Z'
+datePublished: '2016-08-03T18:11:11.029Z'
+sourcePath: _posts/2016-07-27-card-of-the-day-27-july-2016.md
 isBasedOnUrl: 'http://www.tarotbyhic.net'
 author: []
 via: {}
-dateModified: '2016-07-27T18:18:30.084Z'
+dateModified: '2016-08-03T18:11:10.493Z'
 title: Card of the Day • 27 July 2016
 publisher: {}
 description: 'Subscribe : http://bit.ly/1OgxinP'
 starred: false
-sourcePath: _posts/2016-07-27-card-of-the-day-27-july-2016.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -20,7 +20,8 @@ _type: MediaObject
 Subscribe : http://bit.ly/1OgxinP
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27cb436e-f116-4b0e-af14-8e9d622e1f74.jpg)
 
-## Card of the Day • PAGE of SWORDS ReversedHerbal Ally • DILL
+## Card of the Day • PAGE of SWORDS Reversed  
+Herbal Ally • DILL
 
 **Ponder this ...**
 
