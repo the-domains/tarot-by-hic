@@ -12,7 +12,7 @@ color:
   rhythmicContrast: 0.9456911899615079
 opengraph:
   image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/64699097-c3d6-4d03-a7df-4f24a7cf336d.png
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d3b741b-5dd9-4ef1-940b-c95f66b1d3c8.jpg
   type: null
   appId: null
 layout_spectrum: 0.75073
@@ -38,7 +38,8 @@ navigation:
   - name: Card of the Day
     url: 'http://www.tarotbyhic.net/cardoftheday.html'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6603f23-bedf-43a6-b42b-6d9d7f47b6df.jpg
 title: Tarot by HiC
 description: "Information •\_Insight • Empowerment •\_Enlightenment"
 purpose: []
