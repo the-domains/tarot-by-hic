@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-14T20:15:43.490Z'
+datePublished: '2016-08-14T20:23:23.406Z'
 sourcePath: _posts/2016-08-14-revolution-with-hic.md
 author: []
 via: {}
-dateModified: '2016-08-14T20:15:43.045Z'
+dateModified: '2016-08-14T20:23:22.991Z'
 title: (r)Evolution with HiC MAGIC & MENTAL HEALTH Click to Listen
 publisher: {}
 description: >-
