@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-14T20:23:23.406Z'
+datePublished: '2016-08-19T19:21:52.035Z'
 sourcePath: _posts/2016-08-14-revolution-with-hic.md
 author: []
 via: {}
-dateModified: '2016-08-14T20:23:22.991Z'
-title: (r)Evolution with HiC MAGIC & MENTAL HEALTH Click to Listen
+dateModified: '2016-08-19T19:21:51.176Z'
+title: (r)Evolution with HiC
 publisher: {}
 description: >-
   (r)Evolutionary guests ELSA ELLIOT, Licensed Clinical Mental Health Counselor,
@@ -21,9 +21,11 @@ inNav: false
 _type: MediaObject
 
 ---
-# **(r)Evolution with HiC**  
-_**MAGIC & MENTAL HEALTH**_  
-[Click to Listen][0]
+# **(r)Evolution with HiC**
+
+## _**MAGIC & MENTAL HEALTH**_
+
+### [Click to Listen][0]
 ![http://www.blogtalkradio.com/fireflywillowslive/2016/08/14/revolution-with-hic](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94a42716-eef4-4bd6-8e3b-bb37b77e543a.png)
 
 (r)Evolutionary guests ELSA ELLIOT, Licensed Clinical Mental Health Counselor, Reiki practitioner, ordained minister, and Lead Minister of Scorpio at the Temple of Witchcraft, and Intuitive Life Coach FRED ISOM join HiC for a fascinating discussion about how Magic can be used as part of mental health treatment and support. Whether in a therapeutic setting or for our own personal mental health and well being, hear how Magic, Energy Work and Ritual can be used in this (r)Evolutionary way.
