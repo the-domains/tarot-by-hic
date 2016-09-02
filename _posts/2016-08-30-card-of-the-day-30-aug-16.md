@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-30T20:42:14.232Z'
+datePublished: '2016-08-30T20:42:43.847Z'
+sourcePath: _posts/2016-08-30-card-of-the-day-30-aug-16.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T20:41:56.260Z'
+dateModified: '2016-08-30T20:42:43.343Z'
 title: Card of the Day • 30 Aug 16
 publisher: {}
-description: Card of the Day • 4 of WANDS
+description: Card of the Day • 4 of WANDS Herbal Ally • FENNEL
 starred: false
-sourcePath: _posts/2016-08-30-card-of-the-day-30-aug-16.md
 _type: Blurb
 
 ---
@@ -16,17 +16,16 @@ _type: Blurb
 
 # Card of the Day • 30 Aug 16
 
-**Card of the Day • 4 of WANDS**
-
+**Card of the Day • 4 of WANDS**  
 **Herbal Ally • FENNEL**
 
 Subscribe : http://bit.ly/1OgxinP  
 http://www.tarotbyhic.net
 
 **Ponder this ...**  
-_• Am I fully participating in the creation and/or re-invention of my own life ?  
-• What can I celebrate in order to then put behind me to make way for the new ?  
-• Can I embrace the chaos of totally reorganising and restructuring rather than complacently floating in the status quo ?_
+_• Am I fully participating in the creation and/or re-invention of my own life ?_  
+_• What can I celebrate in order to then put behind me to make way for the new ?_  
+_• Can I embrace the chaos of totally reorganising and restructuring rather than complacently floating in the status quo ?_
 
 > _Liberty, then, is the sovereignty of the individual, and never shall man know liberty until each & every individual is acknowledged to be the only legitimate sovereign of his or her person, time, & property, each living and acting at his own cost._ ~ Josiah Warren
 
