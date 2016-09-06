@@ -1,31 +1,30 @@
 ---
-datePublished: '2016-09-02T19:11:47.459Z'
+datePublished: '2016-09-02T19:39:15.216Z'
+sourcePath: _posts/2016-09-02-card-of-the-day-2-sept-16.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T19:11:35.065Z'
+dateModified: '2016-09-02T19:39:14.793Z'
 title: Card of the Day • 2 Sept 16
 publisher: {}
-description: Card of the Day • XVII The STAR Herbal Ally • SKULLCAP
+description: 'Subscribe : http://bit.ly/1OgxinP  http://www.tarotbyhic.net'
 starred: false
-sourcePath: _posts/2016-09-02-card-of-the-day-2-sept-16.md
 _type: Blurb
 
 ---
+# Card of the Day • 2 Sept 16
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be9b9c97-4419-46b2-93cb-b684d9194b51.jpg)
 
-# Card of the Day • 2 Sept 16
+## **Card of the Day • XVII The STAR**  
+**Herbal Ally • SKULLCAP**
 
-**Card of the Day • XVII The STAR  
-Herbal Ally • SKULLCAP**
-
-Subscribe : [http://bit.ly/1OgxinP][0]  
+Subscribe : [http://bit.ly/1OgxinP ][0]  
 [http://www.tarotbyhic.net][1]
 
 **Ponder this ...**  
-_• Am I drowning out the messages from the Universe ?  
-• How can I sit with hope for the future rather than rushing into action for instant gratification of expectation ?  
-• How can I heal what has created hopelessness to fill that space with hope and possibility once again ?_
+_• Am I drowning out the messages from the Universe ?_  
+_• How can I sit with hope for the future rather than rushing into action for instant gratification of expectation ?_  
+_• How can I heal what has created hopelessness to fill that space with hope and possibility once again ?_
 
 _Go placidly amid the noise and haste, and remember what peace there may be in silence._ ~ Max Ehrmann
 
